@@ -1,0 +1,16 @@
+E:\Projects\WiFiClient\bin\Debug\net5.0\WiFiClient.exe
+E:\Projects\WiFiClient\bin\Debug\net5.0\WiFiClient.deps.json
+E:\Projects\WiFiClient\bin\Debug\net5.0\WiFiClient.runtimeconfig.json
+E:\Projects\WiFiClient\bin\Debug\net5.0\WiFiClient.runtimeconfig.dev.json
+E:\Projects\WiFiClient\bin\Debug\net5.0\WiFiClient.dll
+E:\Projects\WiFiClient\bin\Debug\net5.0\ref\WiFiClient.dll
+E:\Projects\WiFiClient\bin\Debug\net5.0\WiFiClient.pdb
+E:\Projects\WiFiClient\obj\Debug\net5.0\WiFiClient.csproj.AssemblyReference.cache
+E:\Projects\WiFiClient\obj\Debug\net5.0\WiFiClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\WiFiClient\obj\Debug\net5.0\WiFiClient.AssemblyInfoInputs.cache
+E:\Projects\WiFiClient\obj\Debug\net5.0\WiFiClient.AssemblyInfo.cs
+E:\Projects\WiFiClient\obj\Debug\net5.0\WiFiClient.csproj.CoreCompileInputs.cache
+E:\Projects\WiFiClient\obj\Debug\net5.0\WiFiClient.dll
+E:\Projects\WiFiClient\obj\Debug\net5.0\ref\WiFiClient.dll
+E:\Projects\WiFiClient\obj\Debug\net5.0\WiFiClient.pdb
+E:\Projects\WiFiClient\obj\Debug\net5.0\WiFiClient.genruntimeconfig.cache
